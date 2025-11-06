@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: index
 author_profile: false
 title: Control Workshop Uruguay 2025
 permalink: /
