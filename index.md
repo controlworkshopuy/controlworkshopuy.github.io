@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: home
 author_profile: false
 title: Control Workshop Uruguay 2025
 permalink: /
@@ -75,7 +75,7 @@ feature_row_d:
 
 <a name="invited_speakers"></a>
 
-# Invited speakers 
+# Confirmed speakers 
 
 {% include feature_row id="feature_row_a" %}
 
