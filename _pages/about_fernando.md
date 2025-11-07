@@ -9,9 +9,7 @@ date: 2025-11-06T13:00:00-03:00
 header: Venue
 ---
 
-# About Fernando
-
-<img src="/assets/images/fernando.png" alt="Smiley face" style="float:right;width:300px; padding:1em">
+<img src="/assets/images/fernando.png" alt="Smiley face" style="float:right;width:400px; padding-left:2em; padding-bottom:2em">
 
 
 Fernando obtained his B.S degrees in Mathematics and Engineering from Universidad de la República, Uruguay. He then graduated with a Ph.D. in Electrical Engineering from Caltech, where his PhD thesis received the 1996 Wilts Prize and the 1996 Clauser Prize. From 1996 to 1997 he was a postdoctoral associate at MIT. Between 1997 and 2005 he was on the faculty the Electrical Engineering Department at UCLA, reaching the rank of Associate Professor. Since 2005 he is Professor of Electrical and Telecommunications Engineering at Universidad ORT Uruguay, and currently Vice-Dean of Research. 

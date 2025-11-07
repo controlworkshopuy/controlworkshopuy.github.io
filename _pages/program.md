@@ -9,6 +9,4 @@ date: 2025-11-06T13:00:00-03:00
 header: Program
 ---
 
-# Program
-
 TBA

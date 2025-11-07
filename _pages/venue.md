@@ -9,8 +9,6 @@ date: 2025-11-06T13:00:00-03:00
 header: Venue
 ---
 
-# Venues
-
 The workshop will be held at the following locations:
 
 **Friday 5 December:** Universidad ORT Uruguay - Campus Centro
@@ -27,4 +25,4 @@ The workshop will be held at the following locations:
 
 ## Getting around:
 
-Uber works fine in Uruguay (but don't expect US sized cars). To get from the airport to the University/Hotel, Uber is the best choice. Be advised that, upon arrival at the airport, you have to go *upstairs to the departure level* to wait for your ride. There is a designated spot exiting the terminal towards the right where ride-share app drivers will meet you.
+Uber works fine in Uruguay (but don't expect US sized cars). To get from the airport to the University/Hotel, Uber is the best choice. Be advised that, upon arrival at the airport, you have to go *upstairs to the departure level* to wait for your ride. There is a designated spot exiting the terminal towards the right where ride-share app drivers will meet you. Airport taxis are also available (considerably larger and at a costly rate).
