@@ -43,7 +43,6 @@ feature_row_b:
     title: "Andres Ferragut"
     excerpt: "Universidad ORT Uruguay"
 
-
 feature_row_c:
   - image_path: /assets/images/sanjay.png
     alt: "Sanjay Lall"
