@@ -49,15 +49,15 @@ feature_row_c:
     alt: "Sanjay Lall"
     title: "Sanjay Lall"
     excerpt: "Stanford University"
-  - image_path: /assets/images/kike.png
-    alt: "Enrique Mallada"
-    title: "Enrique Mallada"
-    excerpt: "Johns Hopkins"
   - image_path: /assets/images/steven.png
     alt: "Steven Low"
     title: "Steven Low"
     excerpt: "Caltech"
-
+  - image_path: /assets/images/kike.png
+    alt: "Enrique Mallada"
+    title: "Enrique Mallada"
+    excerpt: "Johns Hopkins"
+  
 feature_row_d:
   - image_path: /assets/images/rafa.png
     alt: "Rafael Radi"
