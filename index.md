@@ -38,12 +38,17 @@ feature_row_b:
     alt: "Geir Dullerud"
     title: "Geir Dullerud"
     excerpt: "University of Minnesota"
+  - image_path: /assets/images/andres.png
+    alt: "Andres Ferragut"
+    title: "Andres Ferragut"
+    excerpt: "Universidad ORT Uruguay"
+
+
+feature_row_c:
   - image_path: /assets/images/sanjay.png
     alt: "Sanjay Lall"
     title: "Sanjay Lall"
     excerpt: "Stanford University"
-  
-feature_row_c:
   - image_path: /assets/images/kike.png
     alt: "Enrique Mallada"
     title: "Enrique Mallada"
@@ -52,26 +57,26 @@ feature_row_c:
     alt: "Steven Low"
     title: "Steven Low"
     excerpt: "Caltech"
+
+feature_row_d:
+  - image_path: /assets/images/rafa.png
+    alt: "Rafael Radi"
+    title: "Rafael Radi"
+    excerpt: "Universidad de la República"
   - image_path: assets/images/rantzer.png
     alt: "Anders Rantzer"
     title: "Anders Rantzer"
     excerpt: "Lund University"
 
-feature_row_d:
-  - image_path: /assets/images/munther.png
-    alt: "Munther Dahleh"
-    title: "Munther Dahleh"
-    excerpt: "MIT"
-  - image_path: /assets/images/raff.png
-    alt: "Raff D'Andrea"
-    title: "Raff D'Andrea"
-    excerpt: "ETH Zurich"
-  - image_path: assets/images/beck.png
-    alt: "Carolyn Beck"
-    title: "Carolyn Beck"
-    excerpt: "UIUC"
-
 ---
+
+# About the workshop
+
+<a href="/about_fernando/"><img src="/assets/images/fernando.png" alt="Smiley face" style="float:right;width:300px; padding-left:2em; padding-bottom:2em"></a>
+
+The International Control Theory Workshop -- Uruguay 2025, or *FernandoFest*, is organized by the [School of Engineering](https://fi.ort.edu.uy) of [Universidad ORT Uruguay](https://www.ort.edu.uy). Its purpose is to celebrate [Fernando Paganini](/about_fernando/)'s 60+ birthday by inviting friends and colleagues from the Control community. The purpose is to gather to honor Fernando's outstanding contributions to Control Theory, discuss ongoing research and, of course, share (hopefully embarrassing) anecdotes about working with Fernando!
+
+<hr style="clear:both;"/>
 
 <a name="invited_speakers"></a>
 
@@ -82,6 +87,8 @@ feature_row_d:
 {% include feature_row id="feature_row_b" %}
 
 {% include feature_row id="feature_row_c" %}
+
+{% include feature_row id="feature_row_d" %}
 
 # Organizing Committee
 
