@@ -73,7 +73,7 @@ feature_row_d:
 
 <a href="/about_fernando/"><img src="/assets/images/fernando.png" alt="Smiley face" style="float:right;width:300px; padding-left:2em; padding-bottom:2em"></a>
 
-The International Control Theory Workshop -- Uruguay 2025, or *FernandoFest*, is organized by the [School of Engineering](https://fi.ort.edu.uy) of [Universidad ORT Uruguay](https://www.ort.edu.uy). Its purpose is to celebrate [Fernando Paganini](/about_fernando/)'s 60+ birthday by inviting friends and colleagues from the Control community. The purpose is to gather to honor Fernando's outstanding contributions to Control Theory, discuss ongoing research and, of course, share (hopefully embarrassing) anecdotes about working with Fernando!
+The International Control Theory Workshop -- Uruguay 2025, or *FernandoFest*, is organized by the [School of Engineering](https://fi.ort.edu.uy) of [Universidad ORT Uruguay](https://www.ort.edu.uy). Its purpose is to celebrate [Fernando Paganini](/about_fernando/)'s 60+ birthday by inviting friends and colleagues from the Control community. We invited leading researchers in the field to share their most recent work about control theory and applications. Additionally, we will gather to honor Fernando's outstanding contributions to Control Theory and, of course, share anecdotes about working with him.
 
 <hr style="clear:both;"/>
 
