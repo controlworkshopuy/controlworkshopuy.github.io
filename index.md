@@ -66,6 +66,10 @@ feature_row_d:
     alt: "Anders Rantzer"
     title: "Anders Rantzer"
     excerpt: "Lund University"
+  - image_path: assets/images/ricardo.png
+    alt: "Ricardo Sánchez-Peña"
+    title: "Ricardo Sánchez-Peña"
+    excerpt: "Instituto Tecnológico de Buenos Aires"
 
 ---
 
