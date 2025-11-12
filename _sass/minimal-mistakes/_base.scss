@@ -1,6 +1,7 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 html {
   /* sticky footer fix */
@@ -15,6 +16,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-weight: 400;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -32,7 +34,8 @@ h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
+  font-style: bold;
 }
 
 h1 {

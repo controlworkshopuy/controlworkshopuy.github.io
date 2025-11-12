@@ -1,10 +1,10 @@
 main:
-  - title: "Invited Speakers"
-    url: /index.html#invited_speakers
   - title: "Program"
     url: /program/
   - title: "Venue"
     url: /venues/
+  - title: "Registration"
+    url: https://forms.gle/VgpbqiKmbPGPJZmLA
   - title: "About Fernando"
     url: /about_fernando/
   
