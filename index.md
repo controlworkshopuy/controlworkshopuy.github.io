@@ -28,8 +28,6 @@ feature_row_a:
     alt: "Munther Dahleh"
     title: "Munther Dahleh"
     excerpt: "MIT"
-  
-feature_row_b:
   - image_path: /assets/images/doyle.png
     alt: "John Doyle"
     title: "John Doyle"
@@ -38,12 +36,6 @@ feature_row_b:
     alt: "Geir Dullerud"
     title: "Geir Dullerud"
     excerpt: "University of Minnesota"
-  - image_path: /assets/images/andres.png
-    alt: "Andres Ferragut"
-    title: "Andres Ferragut"
-    excerpt: "Universidad ORT Uruguay"
-
-feature_row_c:
   - image_path: /assets/images/sanjay.png
     alt: "Sanjay Lall"
     title: "Sanjay Lall"
@@ -56,12 +48,6 @@ feature_row_c:
     alt: "Enrique Mallada"
     title: "Enrique Mallada"
     excerpt: "Johns Hopkins"
-  
-feature_row_d:
-  - image_path: /assets/images/rafa.png
-    alt: "Rafael Radi"
-    title: "Rafael Radi"
-    excerpt: "Universidad de la República"
   - image_path: assets/images/rantzer.png
     alt: "Anders Rantzer"
     title: "Anders Rantzer"
@@ -70,7 +56,20 @@ feature_row_d:
     alt: "Ricardo Sánchez-Peña"
     title: "Ricardo Sánchez-Peña"
     excerpt: "Instituto Tecnológico de Buenos Aires"
+  - image_path: assets/images/juan.png
+    alt: "Juan Bazerque"
+    title: "Juan Bazerque"
+    excerpt: "Universidad de la República"
+  - image_path: /assets/images/andres.png
+    alt: "Andres Ferragut"
+    title: "Andres Ferragut"
+    excerpt: "Universidad ORT Uruguay"
 
+feature_row_b:
+  - image_path: /assets/images/rafa.png
+    alt: "Rafael Radi"
+    title: "Rafael Radi"
+    excerpt: "Universidad de la República"
 ---
 
 # About the workshop
@@ -86,12 +85,7 @@ The International Control Theory Workshop -- Uruguay 2025, or *FernandoFest*, is
 # Confirmed speakers 
 
 {% include feature_row id="feature_row_a" %}
-
-{% include feature_row id="feature_row_b" %}
-
-{% include feature_row id="feature_row_c" %}
-
-{% include feature_row id="feature_row_d" %}
+{% include feature_row id="feature_row_b" type="center" %}
 
 # Organizing Committee
 
