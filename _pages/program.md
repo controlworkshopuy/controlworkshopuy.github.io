@@ -17,7 +17,7 @@ Session chair: A. Ferragut
 
 | Time  | Speaker | Title |
 |:-----:|-----------------------------|
-| 13:30 | **Dean E. Mangarelli** | Opening and welcome to the University | 
+| 13:30 | **Dean E. Mangarelli** | Opening and welcome to the University. | 
 | 13:40 | **Rafael Radi** |  TBA |
 | 14:00 | **Geir Dullerud** | TBA |       
 | 14:40 | **Steven Low**     | TBA |         
@@ -40,3 +40,7 @@ Session chair: E. Mallada
 | 12:20 | *Lunch Break*              
 | 14:00 | **Sanjay Lall**              | TBA |
 | 14:40 | **Carolyn Beck**            | TBA |
+| 15:20	| *Coffee break*
+| 15:50	| **Munther Dahleh** | TBA |
+| 16:30	| **Raff D'Andrea** |
+| 17:10	| Closing session | Control theory in the world of AI |
