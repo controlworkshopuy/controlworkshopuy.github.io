@@ -9,9 +9,9 @@ date: 2025-11-06T13:00:00-03:00
 header: Program
 ---
 
-# Tentative schedule
+## Tentative schedule
 
-## Friday December 5th - Universidad ORT Uruguay - Campus Centro
+### Friday December 5th - Universidad ORT Uruguay - Campus Centro
 
 Session chair: A. Ferragut
 
@@ -25,7 +25,7 @@ Session chair: A. Ferragut
 | 15:50 | **Enrique Mallada**  |  TBA |    
 | 16:30 | **Juan Bazerque**     |      TBA | 
 
-## Saturday December 6th - After Hotel
+### Saturday December 6th - After Hotel
 
 Session chair: E. Mallada
 
