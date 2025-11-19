@@ -17,13 +17,13 @@ Session chair: A. Ferragut
 
 | Time  | Speaker | Title |
 |:-----:|-----------------------------|
-| 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean. | 
+| 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean of the School of Engineering. | 
 | 13:40 | **Rafael Radi** |  TBA |
 | 14:00 | **Geir Dullerud** | TBA |       
 | 14:40 | **Steven Low**     | TBA |         
 | *15:20* | *Coffee break*     |         
 | 15:50 | **Enrique Mallada**  |  TBA |    
-| 16:30 | **Juan Bazerque**     | Bilinear decomposition of mixed integer linear programs for multi-agent motion planning on quantum computers. | 
+| 16:30 | **Juan Bazerque**     | Bilinear decomposition of MILPs for multi-agent motion planning on quantum computers. | 
 
 ### Saturday December 6th - After Hotel
 
@@ -33,7 +33,7 @@ Session chair: E. Mallada
 |:-----:|-----------------------------|
 | 09:00 | *Opening* |               
 | 09:10 | **John Doyle** | Fernando and the origins of CDS. |              
-| 09:50 | **Anders Rantzer**  | TBA |
+| 09:50 | **Anders Rantzer**  | Optimal control on positive cones |
 | 10:30 | *Coffee break*             
 | 11:00 | **Andres Ferragut**       | Queueing theory meets control: a fruitful friendship. |  
 | 11:40 | **Ricardo Sánchez-Peña**     | Control applied to Neuroscience & Medicine. |
