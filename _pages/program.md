@@ -42,5 +42,5 @@ Session chair: E. Mallada
 | 14:40 | **Carolyn Beck**            | TBA |
 | 15:20	| *Coffee break*
 | 15:50	| **Munther Dahleh** | TBA |
-| 16:30	| **Raff D'Andrea** |
+| 16:30	| **Raff D'Andrea** | TBA |
 | 17:10	| *Closing session* | **Control theory in the world of AI.** |
