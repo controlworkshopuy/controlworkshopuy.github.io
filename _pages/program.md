@@ -17,11 +17,11 @@ Session chair: A. Ferragut
 |:-----:|-----------------------------|
 | 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean of the School of Engineering. | 
 | 13:40 | **Rafael Radi** |  Scientific advice in pandemic times: Respect the Unstable. |
-| 14:00 | **Geir Dullerud** | TBA |       
-| 14:40 | **Steven Low**     | TBA |         
-| *15:20* | *Coffee break*     |         
-| 15:50 | **Enrique Mallada**  |  TBA |    
-| 16:30 | **Juan Bazerque**     | Bilinear decomposition of MILPs for multi-agent motion planning on quantum computers. | 
+| 14:10 | **Geir Dullerud** | TBA |       
+| 14:50 | **Steven Low**     | TBA |         
+| *15:30* | *Coffee break*     |         
+| 16:00 | **Enrique Mallada**  |  TBA |    
+| 16:40 | **Juan Bazerque**     | Bilinear decomposition of MILPs for multi-agent motion planning on quantum computers. | 
 
 ### Saturday December 6th - After Hotel
 
