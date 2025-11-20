@@ -9,8 +9,6 @@ date: 2025-11-06T13:00:00-03:00
 header: Program
 ---
 
-## Tentative schedule
-
 ### Friday December 5th - Universidad ORT Uruguay - Campus Centro
 
 Session chair: A. Ferragut
@@ -18,7 +16,7 @@ Session chair: A. Ferragut
 | Time  | Speaker | Title |
 |:-----:|-----------------------------|
 | 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean of the School of Engineering. | 
-| 13:40 | **Rafael Radi** |  Scientific advice in pandemic times: Respect the Unstable |
+| 13:40 | **Rafael Radi** |  Scientific advice in pandemic times: Respect the Unstable. |
 | 14:00 | **Geir Dullerud** | TBA |       
 | 14:40 | **Steven Low**     | TBA |         
 | *15:20* | *Coffee break*     |         
