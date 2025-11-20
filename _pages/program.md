@@ -41,4 +41,4 @@ Session chair: E. Mallada
 | 15:20	| *Coffee break*
 | 15:50	| **Munther Dahleh** | Coordination by Market Design: Application to Smart Infrastructure. |
 | 16:30	| **Raff D'Andrea** | From Clocks, to Dice, and Back to Clocks. |
-| 17:10	| *Closing session* | **Control in the world of AI.** |
+| 17:10	| *Closing session* | *Open Discussion and Final Remarks* |
