@@ -37,7 +37,7 @@ Session chair: E. Mallada
 | 11:40 | **Ricardo Sánchez-Peña**     | Control applied to Neuroscience & Medicine. |
 | 12:20 | *Lunch Break*              
 | 14:00 | **Sanjay Lall**              | Robust distributed networked control. |
-| 14:40 | **Carolyn Beck**            | TBA |
+| 14:40 | **Carolyn Beck**            | Model order reduction in a similarity framework |
 | 15:20	| *Coffee break*
 | 15:50	| **Munther Dahleh** | Coordination by Market Design: Application to Smart Infrastructure. |
 | 16:30	| **Raff D'Andrea** | From Clocks, to Dice, and Back to Clocks. |
