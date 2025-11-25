@@ -18,7 +18,7 @@ Session chair: A. Ferragut
 | 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean of the School of Engineering. | 
 | 13:40 | **Rafael Radi** |  Scientific advice in pandemic times: Respect the Unstable. |
 | 14:10 | **Geir Dullerud** | TBA |       
-| 14:50 | **Steven Low**     | TBA |         
+| 14:50 | **Steven Low**     | Global stability and optimality: from data to power networks. |         
 | *15:30* | *Coffee break*     |         
 | 16:00 | **Enrique Mallada**  |  TBA |    
 | 16:40 | **Juan Bazerque**     | Bilinear decomposition of MILPs for multi-agent motion planning on quantum computers. | 
