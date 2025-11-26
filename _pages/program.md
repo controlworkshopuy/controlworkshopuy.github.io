@@ -17,7 +17,7 @@ Session chair: A. Ferragut
 |:-----:|-----------------------------|
 | 13:30 | **E. Mangarelli** | Opening and welcome to the University by the Dean of the School of Engineering. | 
 | 13:40 | **Rafael Radi** |  Scientific Advice in Pandemic Times: Respect the Unstable. |
-| 14:10 | **Geir Dullerud** | TBA |       
+| 14:10 | **Geir Dullerud** | Learning in Control and Networks |       
 | 14:50 | **Steven Low**     | Global Stability and Optimality: from Data to Power Networks. |         
 | *15:30* | *Coffee break*     |         
 | 16:00 | **Enrique Mallada**  |  Nonparametric Analysis and Control of Dynamical Systems |    
