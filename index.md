@@ -16,6 +16,10 @@ header:
 excerpt: "In honor of Fernando Paganini's 60+ birthday. Montevideo, Uruguay, 5-6 December 2025"
 
 feature_row_a:
+  - image_path: assets/images/bassam.png
+    alt: "Bassam Bamieh"
+    title: "Bassam Bamieh"
+    excerpt: "Univ. of California Santa Barbara"
   - image_path: assets/images/beck.png
     alt: "Carolyn Beck"
     title: "Carolyn Beck"

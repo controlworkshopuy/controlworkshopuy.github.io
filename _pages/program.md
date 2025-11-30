@@ -29,16 +29,19 @@ Session chair: E. Mallada
 
 | Time  | Speaker | Title |
 |:-----:|-----------------------------|
-| 09:00 | *Opening* |               
-| 09:10 | **John Doyle** | Fernando and the Origins of CDS. |              
-| 09:50 | **Anders Rantzer**  | Optimal Control on Positive Cones |
-| 10:30 | *Coffee break*             
-| 11:00 | **Andres Ferragut**       | Queueing Theory Meets Control: a Fruitful Friendship. |  
-| 11:40 | **Ricardo Sánchez-Peña**     | Control applied to Neuroscience & Medicine. |
-| 12:20 | *Lunch Break*              
-| 14:00 | **Sanjay Lall**              | Robust Distributed Networked Control. |
-| 14:40 | **Carolyn Beck**            | Model Order Reduction in a Similarity Framework |
-| 15:20	| *Coffee break*
+| 08:50 | *Opening* |               
+| 09:00 | **John Doyle** | Fernando and the Origins of CDS. |              
+| 09:40 | **Anders Rantzer**  | Optimal Control on Positive Cones |
+| 10:20 | *Coffee break*             
+| 10:40 | **Andres Ferragut**       | Queueing Theory Meets Control: a Fruitful Friendship. |  
+| 11:20 | **Ricardo Sánchez-Peña**     | Control applied to Neuroscience & Medicine. |
+| 12:00 | *Lunch Break*              
+| 13:30 | **Sanjay Lall**              | Robust Distributed Networked Control. |
+| 14:10 | **Bassam Bamieh**            | Eigenvector Localization: Function and Fragility in Large-Scale Systems |
+| 14:50 | **Carolyn Beck**            | Model Order Reduction in a Similarity Framework |
+| 15:30	| *Coffee break*
 | 15:50	| **Munther Dahleh** | Coordination by Market Design: Application to Smart Infrastructure. |
 | 16:30	| **Raff D'Andrea** | From Clocks, to Dice, and Back to Clocks. |
 | 17:10	| *Closing session* | *Open Discussion and Final Remarks* |
+
+
